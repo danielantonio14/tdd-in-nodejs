@@ -1,0 +1,11 @@
+{
+  "name": "tdd-in-nodejs",
+  "version": "1.0.0",
+  "description": "tdd with express nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Antonio",
+  "license": "ISC"
+}
